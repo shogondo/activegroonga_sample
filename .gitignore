@@ -12,6 +12,7 @@
 /config/environments/*.local.yml
 /contents
 /coverage
+/db/groonga/development
 /doc
 /log/*.log
 /public/coverage
