@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "activegroonga"
+gem "activegroonga", require: "active_groonga"
 gem "jquery-rails"
 gem "rails", "4.1.5"
 gem "sqlite3"
